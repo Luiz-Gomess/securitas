@@ -1,0 +1,51 @@
+id;nome;cpf;matricula;cargo;lotacao;salario_base;descontos;salario_liquido;margem_consignavel;banco_pagamento;agencia;conta;data_pagamento
+1;Ana Sophia Araújo;438.150.926-98;133326;Enfermeiro;Secretaria de Saúde;1800;101.25;1698.75;509.62;Caixa Econômica;1488;198246;2025-03-26
+2;Luiz Fernando Araújo;836.194.205-05;832052;Motorista;Secretaria de Administração;2000;468.24;1531.76;459.53;Banco do Brasil;7924;456778;2025-04-18
+3;Enrico Mendes;196.025.478-20;662275;Professor;Secretaria de Saúde;4000;231.78;3768.22;1130.47;Caixa Econômica;3045;496922;2025-01-31
+4;Evelyn Moreira;931.057.268-02;205907;Motorista;Secretaria de Administração;1500;285.47;1214.53;364.36;Itaú;7227;391476;2025-06-26
+5;Isabelly da Cruz;593.820.164-06;271339;Enfermeiro;Secretaria de Educação;2500;405.76;2094.24;628.27;Caixa Econômica;8573;497887;2025-04-15
+6;Olivia das Neves;503.682.719-86;321231;Médico;Secretaria de Saúde;4000;540.25;3459.75;1037.92;Bradesco;6155;322955;2025-07-13
+7;Melissa Ramos;249.158.736-09;711878;Professor;Secretaria de Obras;1800;131.74;1668.26;500.48;Bradesco;7543;479580;2025-03-27
+8;Luiz Gustavo Sales;109.756.328-68;503457;Motorista;Gabinete;3000;755.35;2244.65;673.39;Banco do Brasil;7252;724834;2025-07-01
+9;Eloah Vieira;014.652.987-11;265840;Enfermeiro;Secretaria de Administração;4000;278.8;3721.2;1116.36;Bradesco;8433;103402;2025-04-13
+10;Sophie da Luz;814.657.903-57;899550;Professor;Secretaria de Saúde;2500;565.36;1934.64;580.39;Bradesco;3646;665579;2025-07-25
+11;Noah Martins;701.269.835-77;189814;Professor;Gabinete;1800;474.89;1325.11;397.53;Bradesco;8962;955662;2025-01-27
+12;Stella Costela;279.845.306-29;847581;Enfermeiro;Secretaria de Saúde;5000;1044.61;3955.39;1186.62;Bradesco;6107;518373;2025-05-26
+13;Manuela Porto;138.026.954-70;107540;Enfermeiro;Secretaria de Educação;3500;358.32;3141.68;942.5;Caixa Econômica;2163;842225;2025-01-23
+14;Bernardo Azevedo;513.297.860-68;858490;Técnico Administrativo;Secretaria de Obras;2500;227.13;2272.87;681.86;Caixa Econômica;8744;354801;2025-07-03
+15;Caroline Castro;165.387.024-90;163556;Professor;Secretaria de Saúde;3500;912.5;2587.5;776.25;Banco do Brasil;7596;863587;2025-05-12
+16;Felipe da Mota;387.196.240-69;179046;Professor;Secretaria de Saúde;3500;526.02;2973.98;892.19;Bradesco;8260;947272;2025-08-02
+17;Benjamin Viana;013.875.496-93;161483;Técnico Administrativo;Gabinete;2500;534.65;1965.35;589.6;Caixa Econômica;3697;497382;2025-01-01
+18;Emanuella Ramos;467.182.509-02;884309;Motorista;Secretaria de Administração;3000;254.72;2745.28;823.58;Bradesco;6138;159942;2025-01-20
+19;Luana Santos;820.471.593-50;808011;Técnico Administrativo;Secretaria de Obras;4000;1097.82;2902.18;870.65;Caixa Econômica;4853;523389;2025-02-16
+20;Elisa Barbosa;916.547.280-20;802258;Professor;Secretaria de Educação;2000;354.76;1645.24;493.57;Banco do Brasil;6147;350280;2025-04-14
+21;Ana Jesus;751.034.682-71;630458;Motorista;Gabinete;2000;413.72;1586.28;475.88;Banco do Brasil;5345;238890;2025-05-16
+22;Felipe Moura;427.698.051-85;795613;Técnico Administrativo;Secretaria de Administração;4000;581.62;3418.38;1025.51;Bradesco;2697;240814;2025-04-13
+23;Calebe Vieira;248.719.563-00;629959;Professor;Secretaria de Administração;1500;330.11;1169.89;350.97;Bradesco;9004;363319;2025-01-20
+24;Pedro Miguel Pereira;408.216.593-24;678478;Técnico Administrativo;Secretaria de Saúde;3500;272.61;3227.39;968.22;Itaú;8007;688153;2025-01-04
+25;Breno da Costa;805.461.392-05;423232;Motorista;Secretaria de Obras;1500;432.68;1067.32;320.2;Caixa Econômica;6974;934794;2025-01-16
+26;Sr. Rodrigo Farias;156.489.702-85;532322;Enfermeiro;Secretaria de Administração;1800;481.73;1318.27;395.48;Caixa Econômica;1406;288073;2025-05-10
+27;Yasmin Farias;421.306.759-99;466643;Médico;Secretaria de Administração;2000;286.96;1713.04;513.91;Banco do Brasil;6000;960394;2025-03-30
+28;Antônio da Mota;654.902.731-43;812526;Professor;Secretaria de Obras;3500;602.53;2897.47;869.24;Bradesco;9785;447235;2025-01-11
+29;Francisco da Luz;940.783.251-14;557592;Engenheiro;Secretaria de Educação;2500;161.2;2338.8;701.64;Banco do Brasil;9379;221263;2025-05-30
+30;Caroline Fernandes;069.481.257-94;796503;Engenheiro;Secretaria de Saúde;5000;1270.03;3729.97;1118.99;Caixa Econômica;6409;753425;2025-05-02
+31;Ana Vitória Jesus;846.237.105-80;797229;Médico;Secretaria de Obras;5000;1433.56;3566.44;1069.93;Itaú;7211;810219;2025-03-09
+32;Maria Fernanda Jesus;680.291.354-24;587575;Motorista;Secretaria de Saúde;2500;705.57;1794.43;538.33;Bradesco;8238;563638;2025-03-24
+33;Lorena da Cunha;145.092.768-85;125611;Motorista;Secretaria de Obras;4000;1195.15;2804.85;841.45;Itaú;1757;356736;2025-07-04
+34;Stella Cardoso;763.589.410-20;254739;Médico;Secretaria de Educação;5000;401.26;4598.74;1379.62;Bradesco;1090;887443;2025-02-11
+35;Clarice da Luz;870.419.365-20;800005;Médico;Secretaria de Administração;1500;295.62;1204.38;361.31;Caixa Econômica;9702;686075;2025-05-04
+36;Mariana Santos;687.153.490-39;980660;Motorista;Secretaria de Educação;1500;101.62;1398.38;419.51;Caixa Econômica;5543;903013;2025-07-22
+37;Marina Duarte;471.528.693-91;666390;Enfermeiro;Secretaria de Educação;1800;497.44;1302.56;390.77;Caixa Econômica;2320;245095;2025-02-28
+38;João Pedro da Costa;316.924.780-87;316881;Médico;Secretaria de Administração;3000;651.73;2348.27;704.48;Caixa Econômica;7883;508396;2025-08-15
+39;Srta. Sophie Nascimento;705.239.148-14;386193;Técnico Administrativo;Gabinete;5000;553.75;4446.25;1333.88;Caixa Econômica;8140;609232;2025-01-12
+40;Heloísa Nunes;279.460.385-00;188025;Técnico Administrativo;Secretaria de Obras;1800;133.62;1666.38;499.91;Itaú;8022;242291;2025-06-29
+41;Benjamin Ferreira;653.728.914-91;364525;Motorista;Secretaria de Educação;4000;667.02;3332.98;999.89;Banco do Brasil;2341;593152;2025-01-08
+42;Dra. Ana Beatriz Monteiro;310.678.452-08;350132;Enfermeiro;Secretaria de Educação;1500;225.98;1274.02;382.21;Caixa Econômica;3068;596564;2025-02-14
+43;Clara Rezende;452.960.138-24;706794;Técnico Administrativo;Secretaria de Saúde;2500;243.88;2256.12;676.84;Itaú;1420;427110;2025-08-12
+44;Isis Novaes;319.052.647-80;464069;Médico;Secretaria de Educação;2000;239.27;1760.73;528.22;Itaú;9728;549186;2025-05-24
+45;Luiz Fernando Mendes;067.932.548-47;556641;Engenheiro;Secretaria de Educação;1800;112.76;1687.24;506.17;Banco do Brasil;3885;869440;2025-07-22
+46;Emanuelly Teixeira;796.854.210-30;971084;Técnico Administrativo;Gabinete;2500;228.94;2271.06;681.32;Caixa Econômica;2419;392477;2025-06-25
+47;Vitor Gabriel Rezende;965.032.178-03;472060;Médico;Gabinete;4000;1102.44;2897.56;869.27;Banco do Brasil;5232;456871;2025-04-19
+48;Pietra Freitas;803.917.426-04;824156;Técnico Administrativo;Secretaria de Obras;4000;465.2;3534.8;1060.44;Itaú;8800;777278;2025-07-10
+49;Vitória Aragão;143.759.268-64;596249;Enfermeiro;Secretaria de Saúde;5000;443.5;4556.5;1366.95;Banco do Brasil;9698;460455;2025-06-15
+50;Dra. Helena Moraes;748.210.539-50;878967;Professor;Secretaria de Educação;1500;355.49;1144.51;343.35;Itaú;9779;899213;2025-03-13
